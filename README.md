@@ -33,7 +33,9 @@ Confira abaixo as fotos do circuito montado e em funcionamento, mostrando o resu
 
 ## Demonstração do projeto
 
-[![Assistir ao vídeo](https://youtube.com/shorts/tdd-hNvWxTk?feature=share)]
+- > Click no link abaixo e assita a demonstração do Arduíno 
+
+https://youtube.com/shorts/tdd-hNvWxTk?feature=share
 
 ## ✅ Conclusão
 
