@@ -31,7 +31,9 @@ O código foi desenvolvido para o ESP32, definindo os pinos de cada LED e os int
 Confira abaixo as fotos do circuito montado e em funcionamento, mostrando o resultado do nosso experimento!
 ![Circuito ESP32](imagem/circuito.jpeg)
 
-![Circuito ESP32](imagem/circuito.mp4)
+## Demonstração do projeto
+
+[![Assistir ao vídeo](https://youtube.com/shorts/tdd-hNvWxTk?feature=share)]
 
 ## ✅ Conclusão
 
